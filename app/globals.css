@@ -1,0 +1,9 @@
+/* Global Styles for Tranzit Landing Page */
+
+/* Tailwind Base */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Bootstrap from node_modules is loaded via link tag in layout */
+/* All vendor CSS loaded via link tags in layout.tsx */
